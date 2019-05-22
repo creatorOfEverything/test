@@ -1,0 +1,26 @@
+$theme-colors: (
+  "dark": #3a3a3a
+);
+
+$colors: () !default;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
+
+$grid-columns: 12 !default;
+$grid-gutter-width: 30px !default;
+
+// $spacer: none;
+$enable-rounded: false;
+// $enable-shadows: none;
+// $enable-gradients: none;
+$enable-transitions: true;
+// $enable-hover-media-query: none;
+// $enable-grid-classes: none;
+// $enable-caret: none;
+// $enable-print-styles: none;
